@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "High Whale Society";
-const description = "A wholesome collection comprised of established and aspring whales, simply vibn' in the Polygon ocean of the vast blochchain universe.";
+const description = "A wholesome collection comprised of established and aspring whales simply vibn' in the Polygon ocean of the vast blochchain universe.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
